@@ -1,4 +1,4 @@
-## Celline Butuem - Cientista de Dados
+## Celline Butuem - Data Scientist
 
 ### Summary
 
