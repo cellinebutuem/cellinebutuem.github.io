@@ -1,4 +1,6 @@
-## Summary
+## Celline Butuem - Cientista de Dados
+
+### Summary
 
 DataCamp certified data scientist familiar with gathering, cleaning and organizing data. Advanced understanding of statistical, algebraic and other analytical techniques. Significant background in system administration.
 
