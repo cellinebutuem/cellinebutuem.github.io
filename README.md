@@ -12,7 +12,7 @@ DataCamp certified data scientist familiar with gathering, cleaning and organizi
 
 ### Work history
 
-- CUBi Energia - Data Analyst (Dez. 2019 - present)
+- CUBi Energia - Data Analyst (Dec. 2019 - present)
    - Data collection procedure optimization by developing a process automation system using bash scripting and Python.
    - Energy consumption data gathering, pre-processing and validation for multiple clients using Python for finding cost reduction opportunities.
    - Cloud-based (Google BigQuery) database maintenance for supporting VMware Software cost reduction opportunity system.
