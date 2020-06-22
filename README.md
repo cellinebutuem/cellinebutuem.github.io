@@ -12,7 +12,12 @@ DataCamp certified data scientist familiar with gathering, cleaning and organizi
 
 ### Work history
 
-- Brazilian Air Force - System Administrator (Jun. 2016 - present)
+- CUBi Energia - Data Analyst (Dez. 2019 - present)
+   - Data collection procedure optimization by developing a process automation system using bash scripting and Python.
+   - Energy consumption data gathering, pre-processing and validation for multiple clients using Python for finding cost reduction opportunities.
+   - Cloud-based (Google BigQuery) database maintenance for supporting VMware Software cost reduction opportunity system.
+
+- Brazilian Air Force - System Administrator (Jun. 2016 - Jul. 2019)
    - Provided second-level support for all linux based server class systems.
    - Resolved issues and escalated problems with knowledgeable support and quality service.
    - Implemented and administered e-mail and web server and service (Zimbra Collaboration Open Source and Joomla!), using VMware Software.
@@ -25,6 +30,7 @@ DataCamp certified data scientist familiar with gathering, cleaning and organizi
 ### Skills/Tools
 
 - Python
+- Bash
 - MATLAB
 - Linux
 - SQL
@@ -32,6 +38,8 @@ DataCamp certified data scientist familiar with gathering, cleaning and organizi
 - Data manipulation
 - Statistical analysis
 - Computer vision
+- 3D modeling
+- 3D printing
 - Joomla!
 - VMware
 - Weka
@@ -39,6 +47,9 @@ DataCamp certified data scientist familiar with gathering, cleaning and organizi
 - Git
 - Pandas
 - Scikit-learn
+- Google BigQuery
+- Google Data Studio
+- Plotly
 
 ### Languages
 
