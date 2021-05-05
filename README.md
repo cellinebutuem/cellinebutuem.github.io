@@ -20,7 +20,7 @@ DataCamp certified data scientist familiar with gathering, cleaning and organizi
 - CUBi Energia - Data Analyst (Dec. 2019 - Dec. 2020)
    - Data collection procedure optimization by developing a process automation system using bash scripting and Python.
    - Energy consumption data gathering, pre-processing and validation for multiple clients using Python for finding cost reduction opportunities.
-   - Cloud-based (Google BigQuery) database maintenance for supporting VMware Software cost reduction opportunity system.
+   - Cloud-based (Google BigQuery) database maintenance for supporting cost reduction opportunity system.
 
 - Brazilian Air Force - IT Support Technician (Dec. 2006 - Aug. 2014)
   - Configured hardware, devices and software to set up work stations for employees.
