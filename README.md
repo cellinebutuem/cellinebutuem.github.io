@@ -12,15 +12,15 @@ DataCamp certified data scientist familiar with gathering, cleaning and organizi
 
 ### Work history
 
-- CUBi Energia - Data Analyst (Dec. 2019 - present)
-   - Data collection procedure optimization by developing a process automation system using bash scripting and Python.
-   - Energy consumption data gathering, pre-processing and validation for multiple clients using Python for finding cost reduction opportunities.
-   - Cloud-based (Google BigQuery) database maintenance for supporting VMware Software cost reduction opportunity system.
-
-- Brazilian Air Force - System Administrator (Jun. 2016 - Jul. 2019)
+- Brazilian Air Force - System Administrator (Jun. 2016 - Jul. 2019; Dec. 2020 - Present)
    - Provided second-level support for all linux based server class systems.
    - Resolved issues and escalated problems with knowledgeable support and quality service.
    - Implemented and administered e-mail and web server and service (Zimbra Collaboration Open Source and Joomla!), using VMware Software.
+
+- CUBi Energia - Data Analyst (Dec. 2019 - Dec. 2020)
+   - Data collection procedure optimization by developing a process automation system using bash scripting and Python.
+   - Energy consumption data gathering, pre-processing and validation for multiple clients using Python for finding cost reduction opportunities.
+   - Cloud-based (Google BigQuery) database maintenance for supporting VMware Software cost reduction opportunity system.
 
 - Brazilian Air Force - IT Support Technician (Dec. 2006 - Aug. 2014)
   - Configured hardware, devices and software to set up work stations for employees.
@@ -55,7 +55,7 @@ DataCamp certified data scientist familiar with gathering, cleaning and organizi
 
 - Portuguese (Brazilian) - Native
 - English - Fluent
-- Spanish - Intermediate
+- French - Elementary
 
 ### Certifications
 
