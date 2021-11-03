@@ -13,14 +13,17 @@ DataCamp certified data scientist familiar with gathering, cleaning and organizi
 ### Work history
 
 - Brazilian Air Force - System Administrator (Jun. 2016 - Jul. 2019; Dec. 2020 - Present)
-   - Provided second-level support for all linux based server class systems.
-   - Resolved issues and escalated problems with knowledgeable support and quality service.
-   - Implemented and administered e-mail and web server and service (Zimbra Collaboration Open Source and Joomla!), using VMware Software.
+   - Management and support of more than ten Linux servers (Ubuntu and Debian) with different services, such as file server (Samba), e‑mail, website and DNS.
+   - Implementation and administration of e‑mail server and service (Zimbra Collaboration Open Source) in multiple virtual servers (VMWare).
+   - Shell script development for backup and maintenance of e‑mail accounts (Zimbra).
+   - Support and administration of several websites Joomla! in a Docker structure.
+   - Administration of Microsoft Active Directory (Windows server 2019) users and groups accounts and attribute modification optimization through Windows PowerShell scripting.
 
 - CUBi Energia - Data Analyst (Dec. 2019 - Dec. 2020)
-   - Data collection procedure optimization by developing a process automation system using bash scripting and Python.
-   - Energy consumption data gathering, pre-processing and validation for multiple clients using Python for finding cost reduction opportunities.
-   - Cloud-based (Google BigQuery) database maintenance for supporting cost reduction opportunity system.
+   - Developed several algorithms to identify cost reduction opportunities relative to energy comsumption, using Python.
+   - Data collection procedure optimization by developing a process automation system using shell scripting and Python.
+   - Energy consumption data pre‑processing and validation for multiple clients, using Python and BigQuery.
+   - Cloud‑based (Google BigQuery) database maintenance for supporting the cost reduction opportunity system.
 
 - Brazilian Air Force - IT Support Technician (Dec. 2006 - Aug. 2014)
   - Configured hardware, devices and software to set up work stations for employees.
@@ -29,10 +32,10 @@ DataCamp certified data scientist familiar with gathering, cleaning and organizi
 
 ### Skills/Tools
 
-- Python
-- Bash
-- MATLAB
 - Linux
+- Bash
+- Python
+- MATLAB
 - SQL
 - Machine learning
 - Data manipulation
@@ -54,8 +57,8 @@ DataCamp certified data scientist familiar with gathering, cleaning and organizi
 ### Languages
 
 - Portuguese (Brazilian) - Native
-- English - Fluent
-- French - Elementary
+- English - Advanced
+- French - Intermediate
 
 ### Certifications
 
