@@ -2,7 +2,7 @@
 
 ### Summary
 
-DataCamp certified data scientist familiar with gathering, cleaning and organizing data. Advanced understanding of statistical, algebraic and other analytical techniques. Significant background in system administration.
+Passionate IT professional with more than 13 years of experience, including 4 as System Administrator specialized in Linux servers; proactive and organized.
 
 ### Education
 
@@ -35,24 +35,14 @@ DataCamp certified data scientist familiar with gathering, cleaning and organizi
 - Linux
 - Bash
 - Python
-- MATLAB
-- SQL
-- Machine learning
-- Data manipulation
-- Statistical analysis
-- Computer vision
-- 3D modeling
-- 3D printing
-- Joomla!
+- PowerShell
+- Docker
 - VMware
-- Weka
-- LaTeX
+- XCP-ng
+- Windows Active Directory
 - Git
-- Pandas
-- Scikit-learn
-- Google BigQuery
-- Google Data Studio
-- Plotly
+- AWS
+- Google Cloud
 
 ### Languages
 
@@ -62,7 +52,5 @@ DataCamp certified data scientist familiar with gathering, cleaning and organizi
 
 ### Certifications
 
-- [Data Scientist with Python from DataCamp](https://www.datacamp.com/statement-of-accomplishment/track/068e2a7701a353d7ff2bdb0fa77f099a5aa8d993) (2019)
-- [Data Analyst with Python from DataCamp](https://www.datacamp.com/statement-of-accomplishment/track/d092b41c40f2c33d7835f45b96949e8ffeaf344f) (2019)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/affe4317-0c43-4f52-aa31-f1b52417efff/public_url) (2022)
 - [Python Programmer from DataCamp](https://www.datacamp.com/statement-of-accomplishment/track/64072e526a3865a5071ae8058716babc2320b5d5) (2019)
-- [Machine Learning with Python](https://www.datacamp.com/statement-of-accomplishment/track/222ea7e6934e6f26f86ec37b783827285a358dbb) (2019)
