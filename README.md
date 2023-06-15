@@ -50,8 +50,8 @@ Passionate IT professional with more than 13 years of experience, including 5 as
 ### Languages
 
 - Portuguese (Brazilian) - Native
-- English - Advanced
-- French - Intermediate
+- English - Advanced (IELTS General Training ‑ Overall: 8.5)
+- French - Intermediate (TEF Canada ‑ Compréhension écrite et orale: C1 ; Expression écrite et orale: B2)
 
 ### Certifications
 
