@@ -1,8 +1,8 @@
-## Celline Butuem - Data Scientist
+## Celline Butuem
 
 ### Summary
 
-Passionate IT professional with more than 13 years of experience, including 4 as System Administrator specialized in Linux servers; proactive and organized.
+Passionate IT professional with more than 13 years of experience, including 5 as System Administrator specialized in Linux servers; proactive and organized.
 
 ### Education
 
@@ -15,8 +15,8 @@ Passionate IT professional with more than 13 years of experience, including 4 as
 - Brazilian Air Force - System Administrator (Jun. 2016 - Jul. 2019; Dec. 2020 - Present)
    - Management and support of more than ten Linux servers (Ubuntu and Debian) with different services, such as file server (Samba), e‑mail, website and DNS.
    - Implementation and administration of e‑mail server and service (Zimbra Collaboration Open Source) in multiple virtual servers (VMWare).
-   - Shell script development for backup and maintenance of e‑mail accounts (Zimbra).
-   - Support and administration of several websites Joomla! in a Docker structure.
+   - Shell script development for backup and maintenance of e‑mail accounts.
+   - Support and administration of several websites Joomla in a Docker structure.
    - Administration of Microsoft Active Directory (Windows server 2019) users and groups accounts and attribute modification optimization through Windows PowerShell scripting.
 
 - CUBi Energia - Data Analyst (Dec. 2019 - Dec. 2020)
@@ -29,10 +29,12 @@ Passionate IT professional with more than 13 years of experience, including 4 as
   - Configured hardware, devices and software to set up work stations for employees.
   - Removed and replaced malfunctioning components to correct hardware problems.
   - Responded to support requests from end users and walked individuals through basic troubleshooting tasks.
+  - Managed IT equipment inventory.
 
 ### Skills/Tools
 
 - Linux
+- Windows
 - Bash
 - Python
 - PowerShell
@@ -43,6 +45,7 @@ Passionate IT professional with more than 13 years of experience, including 4 as
 - Git
 - AWS
 - Google Cloud
+- Microsoft 365
 
 ### Languages
 
