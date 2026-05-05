@@ -4,12 +4,6 @@
 
 Results-driven Systems Administrator with extensive experience managing Microsoft ecosystems, including hybrid cloud environments and enterprise-level identity services. Expert in the day-to-day management of Microsoft 365, Exchange Online, and Microsoft Entra ID to ensure seamless organizational operations. Proven ability to secure and maintain endpoints using Intune and WSUS, while leveraging PowerShell to automate governance and administrative workflows.
 
-### Education
-
-- MSc in Computer Science - Rochester Institute of Technology (2016)
-  - Capstone project: Image Segmentation via Graph Cuts with Connectivity Priors. (GPA 3.36)
-- BSc in Physics - Universidade de São Paulo (2010)
-
 ### Work history
 
 - PWL Capital - Intermediate Systems Administrator (Sep. 2023 - Present)
@@ -64,6 +58,12 @@ Results-driven Systems Administrator with extensive experience managing Microsof
 - Portuguese (Brazilian) - Native
 - English - Advanced (IELTS General Training ‑ Overall: 8.5)
 - French - Intermediate (TEF Canada ‑ Compréhension écrite et orale: C1 ; Expression écrite et orale: B2)
+
+### Education
+
+- MSc in Computer Science - Rochester Institute of Technology (2016)
+- BSc in Physics - Universidade de São Paulo (2010)
+- Technical Diploma in Electronics - Liceu de Artes e Ofícios de São Paulo (2002)
 
 ### Certifications
 
