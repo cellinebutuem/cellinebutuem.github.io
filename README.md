@@ -2,7 +2,7 @@
 
 ### Summary
 
-Passionate IT professional with more than 13 years of experience, including 5 as System Administrator specialized in Linux servers; proactive and organized.
+Results-driven Systems Administrator with extensive experience managing Microsoft ecosystems, including hybrid cloud environments and enterprise-level identity services. Expert in the day-to-day management of Microsoft 365, Exchange Online, and Microsoft Entra ID to ensure seamless organizational operations. Proven ability to secure and maintain endpoints using Intune and WSUS, while leveraging PowerShell to automate governance and administrative workflows.
 
 ### Education
 
@@ -12,12 +12,21 @@ Passionate IT professional with more than 13 years of experience, including 5 as
 
 ### Work history
 
-- Brazilian Air Force - System Administrator (Jun. 2016 - Jul. 2019; Dec. 2020 - Present)
-   - Management and support of more than ten Linux servers (Ubuntu and Debian) with different services, such as file server (Samba), e‑mail, website and DNS.
-   - Implementation and administration of e‑mail server and service (Zimbra Collaboration Open Source) in multiple virtual servers (VMWare).
-   - Shell script development for backup and maintenance of e‑mail accounts.
-   - Support and administration of several websites Joomla in a Docker structure.
-   - Administration of Microsoft Active Directory (Windows server 2019) users and groups accounts and attribute modification optimization through Windows PowerShell scripting.
+- PWL Capital - Intermediate Systems Administrator (Sep. 2023 - Present)
+   - Manage a hybrid environment, balancing physical and virtual server infrastructure with Microsoft cloud-based device and identity management.
+   - Administer Microsoft 365 and Exchange Online for enterprise-level communication and collaboration.
+   - Utilize Entra ID and Active Directory to ensure robust user and application governance.
+   - Oversee comprehensive patching operations using a combination of WSUS and Microsoft Intune.
+   - Lead complex project-based tasks, including account migrations for corporate mergers and acquisitions (M&A).
+   - Execute IT onboarding and offboarding procedures and serve as an escalation point for Tier 2 technical support.
+
+- Brazilian Air Force - Systems Administrator (Jun. 2016 - Jul. 2019; Dec. 2020 - Sep. 2023)
+   - Administered Microsoft Active Directory user and group accounts and optimized attributes via Windows PowerShell scripting.
+   - Managed WSUS for centralized update management across the server environment.
+   - Administered and supported several services within Docker containers on virtualized Linux servers (VMware).
+   - Deployed Zimbra Collaboration Open Source email services across multiple virtualized environments.
+   - Developed Shell and PowerShell scripts to automate backups and manage email accounts.
+   - Maintained web infrastructure within Docker and managed Samba file servers.
 
 - CUBi Energia - Data Analyst (Dec. 2019 - Dec. 2020)
    - Developed several algorithms to identify cost reduction opportunities relative to energy comsumption, using Python.
@@ -33,19 +42,22 @@ Passionate IT professional with more than 13 years of experience, including 5 as
 
 ### Skills/Tools
 
-- Linux
-- Windows
+- Microsoft 365
+- Microsoft Intune
+- Microsoft Entra ID
+- WSUS
+- Exchange Online
+- Windows Active Directory
 - Bash
 - Python
 - PowerShell
 - Docker
 - VMware
 - XCP-ng
-- Windows Active Directory
 - Git
+- Azure
 - AWS
-- Google Cloud
-- Microsoft 365
+- Linux
 
 ### Languages
 
